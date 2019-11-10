@@ -1,6 +1,9 @@
 # assignment06-master
  Includes Scenes for Assignment 6
  
+ Started with Unity Package from Bekkerin as there were import issues on my Unity. 
+ All scenes are under "Personal Scenes" 
+ 
  Scene1: 
  Basic Scene, uses lowman and has pickups. 
  
